@@ -1,3 +1,3 @@
-let m = () => {
+let m = function() {
     console.log(m);
 }
